@@ -21,6 +21,7 @@ export default function Home() {
               image={restaurant.featured_image}
               key={restaurant.id}
               cuisines={restaurant.cuisines}
+              id={restaurant.id}
             />
           </div>
         ))}
