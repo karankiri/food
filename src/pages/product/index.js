@@ -11,14 +11,25 @@ export default function Product() {
   } = useContext(FoodContext);
   console.log("Home -> user", user);
   const params = useParams();
-  let { restaurantID, menuItemID } = params.restaurantID;
+  let { restaurantID, menuItemID } = params;
   const productData = useMemo(() => {
-    return (
+    const restaurantData =
       restaurants.filter((item) => item.restaurant.id === restaurantID)[0]
-        .restaurant || {}
-    );
+        .restaurant || {};
+    if (Object.keys(restaurantData) > 0) {
+      let menuItem = {};
+      restaurantData.hasMenuSection.map((menuSection) => {
+        menuSection.hasMenuItem.map((item) => {
+          if (item.id.toString() === menuItemID) {
+            menuItem = item;
+          }
+        });
+      });
+      return menuItem;
+    }
+    return {};
   }, [restaurantID, restaurants]);
-  console.log("restaurantData -> restaurantData", productData);
+  console.log("productData -> productData", productData);
 
   return (
     <div className="restaurant-page">
