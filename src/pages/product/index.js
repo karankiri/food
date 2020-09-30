@@ -37,8 +37,10 @@ export default function Product() {
 
   const cartQuantity = useMemo(() => {
     if (user.cart && menuItemID) {
-      return user.cart.products.filter((item) => item.id == menuItemID)[0]
-        .quantity;
+      const cartProduct = user.cart.products.filter(
+        (item) => item.id == menuItemID
+      );
+      return cartProduct.length > 0 ? cartProduct[0].quantity : 0;
     }
     return 0;
   }, [user, menuItemID]);
