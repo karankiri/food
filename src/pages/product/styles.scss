@@ -13,6 +13,11 @@
       font-weight: 800;
       border-radius: 0.5rem;
       cursor: pointer;
+
+      &:disabled {
+        cursor: not-allowed;
+        background-color: lighten(orangered, 12%);
+      }
     }
     span {
       margin: 0 1rem;
