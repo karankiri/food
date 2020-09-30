@@ -1,0 +1,40 @@
+.app-header {
+  height: 3rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1rem;
+
+  .app-logo {
+    h3 {
+      font-size: 2rem;
+      font-style: italic;
+    }
+  }
+
+  .cart-container {
+    position: relative;
+
+    .icon-container {
+      background-image: url("../../assets/icons/shopping-cart.png");
+      height: 2rem;
+      width: 2rem;
+      background-size: contain;
+      //stop: 0.5rem;
+    }
+
+    .quantity {
+      position: absolute;
+      display: block;
+      background-color: orangered;
+      color: white;
+      height: 1rem;
+      width: 1rem;
+      text-align: center;
+      font-size: 0.8rem;
+      border-radius: 0.5rem;
+      bottom: -5px;
+      right: -5px;
+    }
+  }
+}
