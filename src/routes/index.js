@@ -1,4 +1,5 @@
 import Home from "../pages/home";
+import Product from "../pages/product/index";
 import Restaurant from "../pages/restaurant";
 
 import React from "react";
@@ -12,7 +13,7 @@ export const Routes = (props) => {
       <Route
         exact
         path="/restaurant/:restaurantID/menuItem/:menuItemID"
-        component={Restaurant}
+        component={Product}
       />
       <Route exact path="/*" render={() => <Redirect to="/home" />} />
     </Switch>
