@@ -42,6 +42,7 @@ export default function Restaurant() {
                 key={item.id}
                 id={item.id}
                 restaurantID={restaurantID}
+                rating={item.offers.rating}
               />
             );
           });

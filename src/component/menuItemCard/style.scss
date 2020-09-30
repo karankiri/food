@@ -6,7 +6,7 @@
   cursor: pointer;
 
   .image-container {
-    height: 10rem;
+    height: auto;
     width: 40%;
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -15,6 +15,7 @@
 
   .card-content {
     padding: 0.7rem 0.5rem;
+    width: 60%;
   }
 
   .name-container {
@@ -42,5 +43,10 @@
     .rating-text {
       font-size: 0.75rem;
     }
+  }
+
+  .bottom-container {
+    display: flex;
+    justify-content: space-between;
   }
 }

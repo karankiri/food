@@ -29,6 +29,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -43,6 +44,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -60,6 +62,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -76,6 +79,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -86,6 +90,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -103,6 +108,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -113,6 +119,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -163,6 +170,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/7/18037817/235a118e0c275deae64db9a2a4b3d6a2_featured_v2.png",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -177,6 +185,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -194,6 +203,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -210,6 +220,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -220,6 +231,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -237,6 +249,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -247,6 +260,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -296,6 +310,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/5/312345/0345d29e190502c100190e455b4334a7_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -310,6 +325,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -327,6 +343,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -343,6 +360,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -353,6 +371,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -370,6 +389,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -380,6 +400,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -430,6 +451,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/0/307490/e00bae6487490c53d94f6bf18aa85a62_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -444,6 +466,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -461,6 +484,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -477,6 +501,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -487,6 +512,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -504,6 +530,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -514,6 +541,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -564,6 +592,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/7/18241537/9f5a933de4086e99a0917d4b659d7537_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -578,6 +607,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -595,6 +625,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -611,6 +642,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -621,6 +653,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -638,6 +671,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -648,6 +682,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -698,6 +733,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/7/18161577/d40268f4980f3e53349bca7055b87124_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -712,6 +748,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -729,6 +766,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -745,6 +783,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -755,6 +794,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -772,6 +812,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -782,6 +823,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -831,6 +873,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/0/303960/3a3246697e182b37a8a51922a89d4192_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -845,6 +888,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -862,6 +906,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -878,6 +923,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -888,6 +934,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -905,6 +952,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -915,6 +963,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -965,6 +1014,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/4/306134/a3808bac6743110762e4cd2b1c60db94_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -979,6 +1029,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -996,6 +1047,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -1012,6 +1064,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -1022,6 +1075,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -1039,6 +1093,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -1049,6 +1104,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -1098,6 +1154,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/3/18233593/b547de994b81df6b39ac8ffd76136bfb_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -1112,6 +1169,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -1129,6 +1187,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -1145,6 +1204,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -1155,6 +1215,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -1172,6 +1233,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -1182,6 +1244,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -1232,6 +1295,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/8/7528/a56e677f209eefb0537b7672883eac57_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -1246,6 +1310,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -1263,6 +1328,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -1279,6 +1345,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -1289,6 +1356,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -1306,6 +1374,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -1316,6 +1385,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -1365,6 +1435,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/4/18273624/cf37a2abfb28cdffe5d96b096d841374_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -1379,6 +1450,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -1396,6 +1468,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -1412,6 +1485,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -1422,6 +1496,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -1439,6 +1514,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -1449,6 +1525,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -1499,6 +1576,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/2/308022/7f5971f1a6c617651d871ff02306ed53_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -1513,6 +1591,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -1530,6 +1609,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -1546,6 +1626,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -1556,6 +1637,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -1573,6 +1655,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -1583,6 +1666,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -1634,6 +1718,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/3/18157413/2c52bcf5b4e2e276130fed24b07416ab_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -1648,6 +1733,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -1665,6 +1751,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -1681,6 +1768,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -1691,6 +1779,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -1708,6 +1797,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -1718,6 +1808,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -1809,6 +1900,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/9/18279449/ba64af5f180920b9bed89693a18cdfc5_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -1823,6 +1915,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -1840,6 +1933,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -1856,6 +1950,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -1866,6 +1961,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -1883,6 +1979,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -1893,6 +1990,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -1983,6 +2081,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/7/311057/6d34c0e230aced20c74a2100e5b75b96_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -1997,6 +2096,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -2014,6 +2114,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -2030,6 +2131,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -2040,6 +2142,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -2057,6 +2160,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -2067,6 +2171,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -2118,6 +2223,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/5/18235515/386e363cee63064288d06ed68148882f_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -2132,6 +2238,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -2149,6 +2256,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -2165,6 +2273,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -2175,6 +2284,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -2192,6 +2302,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -2202,6 +2313,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -2253,6 +2365,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/8/18238278/5c08b8b6281efd00dcec3894dba551c5_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -2267,6 +2380,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -2284,6 +2398,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -2300,6 +2415,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -2310,6 +2426,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -2327,6 +2444,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -2337,6 +2455,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -2387,6 +2506,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/7/17977777/51ddf7b23bd5efd012e351a3de37456f_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -2401,6 +2521,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -2418,6 +2539,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -2434,6 +2556,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -2444,6 +2567,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -2461,6 +2585,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -2471,6 +2596,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -2521,6 +2647,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/chains/9/899/f3c3dd1053778f5c83ce1d704b28904a_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -2535,6 +2662,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -2552,6 +2680,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -2568,6 +2697,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -2578,6 +2708,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -2595,6 +2726,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -2605,6 +2737,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -2707,6 +2840,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/1/18246991/34f289fd1eb24993ce308a3d47da94ea_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -2721,6 +2855,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -2738,6 +2873,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -2754,6 +2890,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -2764,6 +2901,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -2781,6 +2919,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -2791,6 +2930,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -2841,6 +2981,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/2/18017612/913fd9a8d220821947d29c87320fcfc6_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -2855,6 +2996,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -2872,6 +3014,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -2888,6 +3031,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -2898,6 +3042,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -2915,6 +3060,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -2925,6 +3071,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -2975,6 +3122,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/chains/4/18249144/deb712bd876051eee54379bf5bb2c7bb_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -2989,6 +3137,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -3006,6 +3155,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -3022,6 +3172,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -3032,6 +3183,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -3049,6 +3201,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -3059,6 +3212,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -3109,6 +3263,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/chains/2/20842/b53d903894e2fe2e49ca0e8671e40546_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -3123,6 +3278,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -3140,6 +3296,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -3156,6 +3313,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -3166,6 +3324,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -3183,6 +3342,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -3193,6 +3353,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -3243,6 +3404,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/4/20404/c46422afc522370cdce81a412a9cdbe5_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -3257,6 +3419,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -3274,6 +3437,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -3290,6 +3454,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -3300,6 +3465,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -3317,6 +3483,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -3327,6 +3494,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -3377,6 +3545,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/chains/2/20842/b53d903894e2fe2e49ca0e8671e40546_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -3391,6 +3560,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -3408,6 +3578,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -3424,6 +3595,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -3434,6 +3606,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -3451,6 +3624,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -3461,6 +3635,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -3639,6 +3814,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/5/18017615/2161c22b7f6d739f29dad73b82877d32_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -3653,6 +3829,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -3670,6 +3847,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -3686,6 +3864,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -3696,6 +3875,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -3713,6 +3893,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -3723,6 +3904,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -3774,6 +3956,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/2/20002/19ea66865832aefc72c6fc1f676c4195_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -3788,6 +3971,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -3805,6 +3989,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -3821,6 +4006,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -3831,6 +4017,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -3848,6 +4035,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -3858,6 +4046,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -3909,6 +4098,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/7/25587/ddb7d91e5e6f9ae5ba1bf336f5af5ed6_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -3923,6 +4113,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -3940,6 +4131,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -3956,6 +4148,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -3966,6 +4159,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -3983,6 +4177,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -3993,6 +4188,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -4043,6 +4239,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/chains/6/24286/7a4b35bc02e6a20512ba7ceea15a39bf_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -4057,6 +4254,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -4074,6 +4272,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -4090,6 +4289,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -4100,6 +4300,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -4117,6 +4318,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -4127,6 +4329,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -4217,6 +4420,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/5/18217475/c90df6edbb3ae7e168a7c0987ef2fffb_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -4231,6 +4435,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -4248,6 +4453,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -4264,6 +4470,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -4274,6 +4481,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -4291,6 +4499,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -4301,6 +4510,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -4352,6 +4562,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/7/20747/72d888f04564fe8c1c846e091fd5a4da_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -4366,6 +4577,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -4383,6 +4595,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -4399,6 +4612,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -4409,6 +4623,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -4426,6 +4641,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -4436,6 +4652,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -4486,6 +4703,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/2/18377112/9461f6ce9c2ac672d3959dcf6d952a60_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -4500,6 +4718,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -4517,6 +4736,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -4533,6 +4753,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -4543,6 +4764,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -4560,6 +4782,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -4570,6 +4793,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -4660,6 +4884,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/chains/0/24530/de94f2de4e7a40b5359146bbef22d8ad_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -4674,6 +4899,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -4691,6 +4917,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -4707,6 +4934,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -4717,6 +4945,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -4734,6 +4963,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -4744,6 +4974,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -4795,6 +5026,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/1/18343731/9c5e5d6b14fae74ed56421d289be1ea2_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -4809,6 +5041,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -4826,6 +5059,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -4842,6 +5076,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -4852,6 +5087,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -4869,6 +5105,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -4879,6 +5116,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -4930,6 +5168,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/chains/2/24452/ad3800ed2af963c6b173b0edb7b2eccd_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -4944,6 +5183,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -4961,6 +5201,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -4977,6 +5218,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -4987,6 +5229,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -5004,6 +5247,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -5014,6 +5258,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -5064,6 +5309,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/chains/0/20870/dc26709dc20fa2923cb371c872ffdc86_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -5078,6 +5324,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -5095,6 +5342,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -5111,6 +5359,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -5121,6 +5370,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -5138,6 +5388,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -5148,6 +5399,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -5198,6 +5450,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/0/20350/175a59103265680af449838fbf2d7ef5_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -5212,6 +5465,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -5229,6 +5483,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -5245,6 +5500,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -5255,6 +5511,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -5272,6 +5529,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -5282,6 +5540,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -5333,6 +5592,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/4/25664/14609c2bcfcfcfab477129894cbb7dd9_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -5347,6 +5607,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -5364,6 +5625,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -5380,6 +5642,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -5390,6 +5653,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -5407,6 +5671,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -5417,6 +5682,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -5468,6 +5734,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/2/18259462/d1d7942ef7138aa9f4a199a85510326a_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -5482,6 +5749,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -5499,6 +5767,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -5515,6 +5784,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -5525,6 +5795,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -5542,6 +5813,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -5552,6 +5824,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }
@@ -5603,6 +5876,7 @@
       "thumb": "https://b.zmtcdn.com/data/pictures/0/21220/ee26eb13d056433c55456116bd2a9c35_featured_v2.jpg",
       "offers": {
         "@type": "Offer",
+        "rating": 4.1,
         "availabilityStarts": "T17:00",
         "availabilityEnds": "T23:00"
       },
@@ -5617,6 +5891,7 @@
               "description": "Served with Italian red gravy.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             },
@@ -5634,6 +5909,7 @@
               },
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "7.95"
               }
             }
@@ -5650,6 +5926,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             },
@@ -5660,6 +5937,7 @@
               "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "6.75"
               }
             }
@@ -5677,6 +5955,7 @@
               "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "17.95"
               }
             },
@@ -5687,6 +5966,7 @@
               "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
               "offers": {
                 "@type": "Offer",
+                "rating": 4.1,
                 "price": "14.95"
               }
             }

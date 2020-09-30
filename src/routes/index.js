@@ -9,6 +9,11 @@ export const Routes = (props) => {
     <Switch>
       <Route exact path="/home" component={Home} />
       <Route exact path="/restaurant/:restaurantID" component={Restaurant} />
+      <Route
+        exact
+        path="/restaurant/:restaurantID/menuItem/:menuItemID"
+        component={Restaurant}
+      />
       <Route exact path="/*" render={() => <Redirect to="/home" />} />
     </Switch>
   );

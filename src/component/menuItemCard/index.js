@@ -15,7 +15,7 @@ export default function MenuItemCard({
   const history = useHistory();
 
   const cardClick = () => {
-    history.push(`/restaurant/${restaurantID}/menu-item/${id}`);
+    history.push(`/restaurant/${restaurantID}/menuItem/${id}`);
   };
 
   return (
@@ -31,7 +31,7 @@ export default function MenuItemCard({
         <div className="description-container">
           <span>{description}</span>
         </div>
-        <div className="">
+        <div className="bottom-container">
           <div className="currency-container">
             <span className={"price"}>{price}</span>
             <span className="currency">{currency}</span>
