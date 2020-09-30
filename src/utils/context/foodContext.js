@@ -1,20 +1,23 @@
 import React, { createContext, useReducer, useEffect } from "react";
 import { FoodReducer } from "./reducer";
+import Restaurants from "../../assets/data.json";
 
 export const FoodContext = createContext();
 
 const initialState = {
-  isAuthenticated: false,
-  user: null,
+  user: {},
+  restaurants: Restaurants,
 };
 
 const FoodContextProvider = (props) => {
   const [user, dispatch] = useReducer(FoodReducer, {}, () => {
     const localData = localStorage.getItem("user");
-    return localData ? JSON.parse(localData) : initialState;
+    return localData
+      ? { user: JSON.parse(localData), restaurants: initialState.restaurants }
+      : initialState;
   });
   useEffect(() => {
-    localStorage.setItem("user", JSON.stringify(user));
+    localStorage.setItem("user", JSON.stringify(user.user));
   }, [user]);
   return (
     <FoodContext.Provider value={{ user, dispatch }}>
