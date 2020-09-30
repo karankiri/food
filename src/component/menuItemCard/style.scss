@@ -1,0 +1,46 @@
+.menu-item-container {
+  display: flex;
+  flex-direction: row;
+  border-radius: 1rem;
+  background-color: aliceblue;
+  cursor: pointer;
+
+  .image-container {
+    height: 10rem;
+    width: 40%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    border-radius: 1rem 0 0 1rem;
+  }
+
+  .card-content {
+    padding: 0.7rem 0.5rem;
+  }
+
+  .name-container {
+    font-weight: 700;
+    font-size: 1.2rem;
+  }
+
+  .cuisines-container {
+    font-size: 0.9rem;
+    color: gray;
+  }
+
+  .rating-container {
+    display: flex;
+    align-items: center;
+
+    .star-icon {
+      background-image: url("../../assets/icons/218-512.png");
+      height: 1.5rem;
+      width: 1.5rem;
+      background-size: contain;
+      display: block;
+    }
+
+    .rating-text {
+      font-size: 0.75rem;
+    }
+  }
+}

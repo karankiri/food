@@ -3,6 +3,7 @@ import { useParams } from "react-router-dom";
 import { FoodContext } from "../../utils/context/foodContext";
 import "./styles.scss";
 import RestaurantBanner from "../../component/restaurantBanner/index";
+import MenuItemCard from "../../component/menuItemCard";
 
 export default function Restaurant() {
   const {
@@ -20,7 +21,7 @@ export default function Restaurant() {
   console.log("restaurantData -> restaurantData", restaurantData);
 
   return (
-    <div className="home-page">
+    <div className="restaurant-page">
       <RestaurantBanner
         name={restaurantData.name}
         id={restaurantData.id}
@@ -28,7 +29,24 @@ export default function Restaurant() {
         image={restaurantData.featured_image}
         cuisines={restaurantData.cuisines}
       />
-      <div className="main"></div>
+      <div className="main">
+        {restaurantData.hasMenuSection.map((menuSection) => {
+          return menuSection.hasMenuItem.map((item) => {
+            return (
+              <MenuItemCard
+                name={item.name}
+                description={item.description}
+                price={item.offers.price}
+                currency={restaurantData.currency}
+                image={item.image}
+                key={item.id}
+                id={item.id}
+                restaurantID={restaurantID}
+              />
+            );
+          });
+        })}
+      </div>
     </div>
   );
 }
