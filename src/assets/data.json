@@ -1,30 +1,17 @@
 [
   {
     "restaurant": {
-      "has_online_delivery": 1,
       "photos_url": "https://www.zomato.com/HauzKhasSocial/photos?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1#tabtop",
       "url": "https://www.zomato.com/HauzKhasSocial?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "price_range": 3,
-      "apikey": "b90e6a8c738410315a20c449fe2eb1b1",
       "user_rating": {
         "rating_text": "Very Good",
         "rating_color": "5BA829",
         "votes": "7931",
         "aggregate_rating": "4.3"
       },
-      "R": {
-        "res_id": 308322
-      },
       "name": "Hauz Khas Social",
       "cuisines": "Continental, American, Asian, North Indian",
-      "is_delivering_now": 0,
-      "deeplink": "zomato://restaurant/308322",
-      "menu_url": "https://www.zomato.com/HauzKhasSocial/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
-      "average_cost_for_two": 1600,
-      "book_url": "https://www.zomato.com/HauzKhasSocial/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
-      "switch_to_order_menu": 0,
-      "offers": [],
-      "has_table_booking": 1,
       "location": {
         "latitude": "28.5542851000",
         "address": "9-A & 12, Hauz Khas Village, New Delhi",
@@ -37,62 +24,101 @@
         "locality": "Hauz Khas Village"
       },
       "featured_image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
-      "zomato_events": [
-        {
-          "event": {
-            "display_date": "05 April - 21 May",
-            "end_time": "01:00:00",
-            "date_added": "2017-04-05 14:18:49",
-            "start_date": "2017-04-05",
-            "photos": [
-              {
-                "photo": {
-                  "photo_id": 185854,
-                  "order": 0,
-                  "type": "NORMAL",
-                  "url": "https://b.zmtcdn.com/data/zomato_events/photos/b73/ec1691986700e9839313d9353b2e4b73_1491382129.jpg",
-                  "md5sum": "ec1691986700e9839313d9353b2e4b73",
-                  "uuid": 1491382088569328,
-                  "thumb_url": "https://b.zmtcdn.com/data/zomato_events/photos/b73/ec1691986700e9839313d9353b2e4b73_1491382129.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A"
-                }
-              },
-              {
-                "photo": {
-                  "photo_id": 185884,
-                  "order": 1,
-                  "type": "NORMAL",
-                  "url": "https://b.zmtcdn.com/data/zomato_events/photos/3ce/8cda41e10df03e71d09faa00f64143ce_1491384739.jpg",
-                  "md5sum": "8cda41e10df03e71d09faa00f64143ce",
-                  "uuid": 1491384715122322,
-                  "thumb_url": "https://b.zmtcdn.com/data/zomato_events/photos/3ce/8cda41e10df03e71d09faa00f64143ce_1491384739.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A"
-                }
-              }
-            ],
-            "share_url": "http://www.zoma.to/r/308322",
-            "description": "It's #IPL season and we're screening 'em all! Come one and all to witness the drama and pair it with our On Tap offer on beer - Stella + Hoegaarden! See you!",
-            "title": "IPL Match Screenings",
-            "display_time": "10:00 am - 01:00 am",
-            "book_link": "",
-            "restaurants": [],
-            "disclaimer": "Restaurants are solely responsible for the service; availability and quality of the events including all or any cancellations/ modifications/ complaints.",
-            "friendly_start_date": "05 April",
-            "is_end_time_set": 1,
-            "event_id": 118139,
-            "end_date": "2017-05-21",
-            "event_category": 0,
-            "friendly_end_date": "21 May",
-            "is_active": 1,
-            "start_time": "10:00:00",
-            "is_valid": 1,
-            "event_category_name": ""
-          }
-        }
-      ],
       "currency": "Rs.",
       "id": "308322",
       "thumb": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
-      "establishment_types": [],
-      "events_url": "https://www.zomato.com/HauzKhasSocial/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ]
     }
   },
   {
@@ -119,7 +145,6 @@
       "average_cost_for_two": 1500,
       "book_url": "https://www.zomato.com/ncr/qubitos-the-terrace-cafe-rajouri-garden-new-delhi/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "has_table_booking": 1,
       "location": {
         "latitude": "28.6471325000",
@@ -133,77 +158,101 @@
         "locality": "Rajouri Garden"
       },
       "featured_image": "https://b.zmtcdn.com/data/pictures/7/18037817/235a118e0c275deae64db9a2a4b3d6a2_featured_v2.png",
-      "zomato_events": [
-        {
-          "event": {
-            "display_date": "16 April - 17 April",
-            "end_time": "00:00:00",
-            "date_added": "2017-04-11 13:52:17",
-            "start_date": "2017-04-16",
-            "photos": [
-              {
-                "photo": {
-                  "photo_id": 187914,
-                  "order": 0,
-                  "type": "NORMAL",
-                  "url": "https://b.zmtcdn.com/data/zomato_events/photos/4ba/f3b41dc8dba54cff2c2efac70103b4ba_1491898937.jpg",
-                  "md5sum": "f3b41dc8dba54cff2c2efac70103b4ba",
-                  "uuid": 1491898928184580,
-                  "thumb_url": "https://b.zmtcdn.com/data/zomato_events/photos/4ba/f3b41dc8dba54cff2c2efac70103b4ba_1491898937.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A"
-                }
-              }
-            ],
-            "share_url": "http://www.zoma.to/r/18037817",
-            "description": "Welcome your Sunday some Live Fusion with Suboni Brothers only at Qubitos - The Terrace Cafe on 16th April, Sunday.\r\nThey play some great live fusion for you in fusion night. Be a part of amazing night!!\r\n\r\n\r\nFor Reservation : 9599800400, 9599800500\r\n\r\nDate : 16 April, Sunday\r\nTime : 9 PM onwards\r\nVenue : Qubitos - The Terrace Cafe",
-            "title": "Live Fusion Night with Suboni Brothers",
-            "display_time": "09:00 pm - 12:00 am",
-            "book_link": "",
-            "restaurants": [],
-            "disclaimer": "Restaurants are solely responsible for the service; availability and quality of the events including all or any cancellations/ modifications/ complaints.",
-            "friendly_start_date": "16 April",
-            "is_end_time_set": 1,
-            "event_id": 119563,
-            "end_date": "2017-04-17",
-            "event_category": 0,
-            "friendly_end_date": "17 April",
-            "is_active": 1,
-            "start_time": "21:00:00",
-            "is_valid": 1,
-            "event_category_name": ""
-          }
-        },
-        {
-          "event": {
-            "display_date": "19 April - 20 April",
-            "end_time": "01:00:00",
-            "date_added": "2017-04-15 17:20:41",
-            "start_date": "2017-04-19",
-            "photos": [],
-            "share_url": "http://www.zoma.to/r/18037817",
-            "description": "On this wednesday is going to be perfect at your favourite Qubitos - The Terrace Cafe this week with Raenit Singh Ft. Sarvagya Band performing Live!!!\r\n\r\nRelax your evening with a soulfoul voice and a new ambiance, delectable food and enjoy the awsome live performance.\r\n\r\nFor Reservation : 9599800400,9599800500\r\n\r\nDate : 19th April, Wednesday\r\nTime : 9 PM Onwards\r\nVenue : Qubitos - The Terrace Cafe",
-            "title": "Raenit Singh Ft. Sarvagya The Band, Qubitos",
-            "display_time": "09:00 pm - 01:00 am",
-            "book_link": "",
-            "restaurants": [],
-            "disclaimer": "Restaurants are solely responsible for the service; availability and quality of the events including all or any cancellations/ modifications/ complaints.",
-            "friendly_start_date": "19 April",
-            "is_end_time_set": 1,
-            "event_id": 120517,
-            "end_date": "2017-04-20",
-            "event_category": 0,
-            "friendly_end_date": "20 April",
-            "is_active": 1,
-            "start_time": "21:00:00",
-            "is_valid": 1,
-            "event_category_name": ""
-          }
-        }
-      ],
       "currency": "Rs.",
       "id": "18037817",
       "thumb": "https://b.zmtcdn.com/data/pictures/7/18037817/235a118e0c275deae64db9a2a4b3d6a2_featured_v2.png",
-      "establishment_types": [],
-      "events_url": "https://www.zomato.com/ncr/qubitos-the-terrace-cafe-rajouri-garden-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ]
     }
   },
   {
@@ -229,7 +278,6 @@
       "menu_url": "https://www.zomato.com/ncr/the-hudson-cafe-delhi-university-gtb-nagar-new-delhi/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
       "average_cost_for_two": 850,
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "Cafe, Italian, Continental, Chinese",
       "location": {
         "latitude": "28.6949468000",
@@ -246,8 +294,98 @@
       "currency": "Rs.",
       "id": "312345",
       "thumb": "https://b.zmtcdn.com/data/pictures/5/312345/0345d29e190502c100190e455b4334a7_featured_v2.jpg",
-      "establishment_types": [],
-      "events_url": "https://www.zomato.com/ncr/the-hudson-cafe-delhi-university-gtb-nagar-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ]
     }
   },
   {
@@ -274,7 +412,6 @@
       "average_cost_for_two": 1850,
       "book_url": "https://www.zomato.com/ncr/summer-house-cafe-hauz-khas-new-delhi/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "has_table_booking": 1,
       "location": {
         "latitude": "28.5525204000",
@@ -288,203 +425,101 @@
         "locality": "Hauz Khas"
       },
       "featured_image": "https://b.zmtcdn.com/data/pictures/0/307490/e00bae6487490c53d94f6bf18aa85a62_featured_v2.jpg",
-      "zomato_events": [
-        {
-          "event": {
-            "display_date": "16 April - 17 April",
-            "end_time": "00:30:00",
-            "date_added": "2017-01-11 23:04:19",
-            "start_date": "2017-04-16",
-            "photos": [
-              {
-                "photo": {
-                  "photo_id": 162967,
-                  "order": 0,
-                  "type": "FEATURED",
-                  "url": "https://b.zmtcdn.com/data/zomato_events/photos/399/87b08a14dc80dfdc86a690fd44700399_1484156059.jpg",
-                  "md5sum": "87b08a14dc80dfdc86a690fd44700399",
-                  "uuid": 56050088176,
-                  "thumb_url": "https://b.zmtcdn.com/data/zomato_events/photos/399/87b08a14dc80dfdc86a690fd44700399_1484156059.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A"
-                }
-              }
-            ],
-            "share_url": "http://www.zoma.to/r/307490",
-            "description": "Sundays are the best days to dance! Why? Because it's Salsa Sundays tonight at #summerhousecafe! Get groovin'!",
-            "title": "SALSA NIGHT",
-            "display_time": "09:00 pm - 12:30 am",
-            "book_link": "",
-            "restaurants": [],
-            "disclaimer": "Restaurants are solely responsible for the service; availability and quality of the events including all or any cancellations/ modifications/ complaints.",
-            "friendly_start_date": "16 April",
-            "is_end_time_set": 1,
-            "event_id": 100228,
-            "end_date": "2017-04-17",
-            "event_category": 1,
-            "friendly_end_date": "17 April",
-            "is_active": 1,
-            "start_time": "21:00:00",
-            "is_valid": 1,
-            "event_category_name": ""
-          }
-        },
-        {
-          "event": {
-            "display_date": "17 April - 18 April",
-            "end_time": "00:30:00",
-            "date_added": "2017-01-11 22:06:46",
-            "start_date": "2017-04-17",
-            "photos": [
-              {
-                "photo": {
-                  "photo_id": 162950,
-                  "order": 0,
-                  "type": "FEATURED",
-                  "url": "https://b.zmtcdn.com/data/zomato_events/photos/72e/683eb071710b22f4d08e21ce201fc72e_1484152606.jpg",
-                  "md5sum": "683eb071710b22f4d08e21ce201fc72e",
-                  "uuid": 52563289334,
-                  "thumb_url": "https://b.zmtcdn.com/data/zomato_events/photos/72e/683eb071710b22f4d08e21ce201fc72e_1484152606.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A"
-                }
-              }
-            ],
-            "share_url": "http://www.zoma.to/r/307490",
-            "description": "Don't hide coz its monday! Come out n sing your heart out at #summerhousecafe tonight. #karaoke nights with Esther and Radhika Shankar.",
-            "title": "Karaoke Night",
-            "display_time": "09:00 pm - 12:30 am",
-            "book_link": "",
-            "restaurants": [],
-            "disclaimer": "Restaurants are solely responsible for the service; availability and quality of the events including all or any cancellations/ modifications/ complaints.",
-            "friendly_start_date": "17 April",
-            "is_end_time_set": 1,
-            "event_id": 100212,
-            "end_date": "2017-04-18",
-            "event_category": 1,
-            "friendly_end_date": "18 April",
-            "is_active": 1,
-            "start_time": "21:00:00",
-            "is_valid": 1,
-            "event_category_name": ""
-          }
-        },
-        {
-          "event": {
-            "display_date": "18 April - 19 April",
-            "end_time": "00:30:00",
-            "date_added": "2017-02-15 17:00:57",
-            "start_date": "2017-04-18",
-            "photos": [
-              {
-                "photo": {
-                  "photo_id": 172943,
-                  "order": 0,
-                  "type": "FEATURED",
-                  "url": "https://b.zmtcdn.com/data/zomato_events/photos/91a/c303c2d4121e612349b754d12805a91a_1487158257.jpg",
-                  "md5sum": "c303c2d4121e612349b754d12805a91a",
-                  "uuid": 58029677332,
-                  "thumb_url": "https://b.zmtcdn.com/data/zomato_events/photos/91a/c303c2d4121e612349b754d12805a91a_1487158257.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A"
-                }
-              }
-            ],
-            "share_url": "http://www.zoma.to/r/307490",
-            "description": "Enjoy live band followed by comedy night in association with higher learning productions every tuesday.",
-            "title": "COMEDY NIGHT",
-            "display_time": "09:00 pm - 12:30 am",
-            "book_link": "",
-            "restaurants": [],
-            "disclaimer": "Restaurants are solely responsible for the service; availability and quality of the events including all or any cancellations/ modifications/ complaints.",
-            "friendly_start_date": "18 April",
-            "is_end_time_set": 1,
-            "event_id": 107961,
-            "end_date": "2017-04-19",
-            "event_category": 1,
-            "friendly_end_date": "19 April",
-            "is_active": 1,
-            "start_time": "21:00:00",
-            "is_valid": 1,
-            "event_category_name": ""
-          }
-        },
-        {
-          "event": {
-            "display_date": "19 April - 20 April",
-            "end_time": "00:30:00",
-            "date_added": "2017-04-13 18:14:03",
-            "start_date": "2017-04-19",
-            "photos": [
-              {
-                "photo": {
-                  "photo_id": 188665,
-                  "order": 0,
-                  "type": "NORMAL",
-                  "url": "https://b.zmtcdn.com/data/zomato_events/photos/c5a/65d3c4551287380ddadbb285581f3c5a_1492087484.jpg",
-                  "md5sum": "65d3c4551287380ddadbb285581f3c5a",
-                  "uuid": 1492087483255591,
-                  "thumb_url": "https://b.zmtcdn.com/data/zomato_events/photos/c5a/65d3c4551287380ddadbb285581f3c5a_1492087484.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A"
-                }
-              }
-            ],
-            "share_url": "http://www.zoma.to/r/307490",
-            "description": "Designed to showcase sounds and styles that champion underground culture, #BoxoutWednesdays help build and serve a community that remains neglected by mainstream media.\r\n\r\n19th april gig sees a special edition with experimental Norwegian house and techno pioneer Bj\u00f8rn Torske bringing his Scandinavian space disco sound to India. \r\n\r\nActive as a DJ and producer for nearly 20 years, he has been a central figure through out the ascension of the Norwegian scene.\r\n\r\nWith support from Moniker.",
-            "title": "BoxoutWednesdays #007 w/ bj&oslash;rn torske &amp; moniker",
-            "display_time": "09:00 pm - 12:30 am",
-            "book_link": "",
-            "restaurants": [],
-            "disclaimer": "Restaurants are solely responsible for the service; availability and quality of the events including all or any cancellations/ modifications/ complaints.",
-            "friendly_start_date": "19 April",
-            "is_end_time_set": 1,
-            "event_id": 120172,
-            "end_date": "2017-04-20",
-            "event_category": 0,
-            "friendly_end_date": "20 April",
-            "is_active": 1,
-            "start_time": "21:00:00",
-            "is_valid": 1,
-            "event_category_name": ""
-          }
-        },
-        {
-          "event": {
-            "display_date": "06 May - 07 May",
-            "end_time": "00:30:00",
-            "date_added": "2017-04-12 17:33:14",
-            "start_date": "2017-05-06",
-            "photos": [
-              {
-                "photo": {
-                  "photo_id": 188341,
-                  "order": 0,
-                  "type": "NORMAL",
-                  "url": "https://b.zmtcdn.com/data/zomato_events/photos/8b4/3c54cd4aaaceaa0c77211367c92018b4_1491998594.jpg",
-                  "md5sum": "3c54cd4aaaceaa0c77211367c92018b4",
-                  "uuid": 1491998573653700,
-                  "thumb_url": "https://b.zmtcdn.com/data/zomato_events/photos/8b4/3c54cd4aaaceaa0c77211367c92018b4_1491998594.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A"
-                }
-              }
-            ],
-            "share_url": "http://www.zoma.to/r/307490",
-            "description": "Helsinki Nights presents San Soda\r\n\r\nDISCO SET \r\n\r\n6th May, Saturday\r\n\r\n9:30pm Onwards",
-            "title": "Helsinki Nights presents San Soda",
-            "display_time": "09:30 pm - 12:30 am",
-            "book_link": "",
-            "restaurants": [],
-            "disclaimer": "Restaurants are solely responsible for the service; availability and quality of the events including all or any cancellations/ modifications/ complaints.",
-            "friendly_start_date": "06 May",
-            "is_end_time_set": 1,
-            "event_id": 119922,
-            "end_date": "2017-05-07",
-            "event_category": 0,
-            "friendly_end_date": "07 May",
-            "is_active": 1,
-            "start_time": "21:30:00",
-            "is_valid": 1,
-            "event_category_name": ""
-          }
-        }
-      ],
       "currency": "Rs.",
       "id": "307490",
       "thumb": "https://b.zmtcdn.com/data/pictures/0/307490/e00bae6487490c53d94f6bf18aa85a62_featured_v2.jpg",
-      "establishment_types": [],
-      "events_url": "https://www.zomato.com/ncr/summer-house-cafe-hauz-khas-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ]
     }
   },
   {
@@ -511,7 +546,6 @@
       "average_cost_for_two": 1600,
       "book_url": "https://www.zomato.com/ncr/38-barracks-connaught-place-new-delhi/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "North Indian, Italian, Asian, American",
       "location": {
         "latitude": "28.6330248887",
@@ -528,8 +562,98 @@
       "currency": "Rs.",
       "id": "18241537",
       "thumb": "https://b.zmtcdn.com/data/pictures/7/18241537/9f5a933de4086e99a0917d4b659d7537_featured_v2.jpg",
-      "establishment_types": [],
-      "events_url": "https://www.zomato.com/ncr/38-barracks-connaught-place-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ]
     }
   },
   {
@@ -556,7 +680,6 @@
       "average_cost_for_two": 900,
       "book_url": "https://www.zomato.com/ncr/spezia-bistro-delhi-university-gtb-nagar-new-delhi/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "Cafe, Continental, Chinese, Italian",
       "location": {
         "latitude": "28.6948390000",
@@ -573,8 +696,98 @@
       "currency": "Rs.",
       "id": "18161577",
       "thumb": "https://b.zmtcdn.com/data/pictures/7/18161577/d40268f4980f3e53349bca7055b87124_featured_v2.jpg",
-      "establishment_types": [],
-      "events_url": "https://www.zomato.com/ncr/spezia-bistro-delhi-university-gtb-nagar-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ]
     }
   },
   {
@@ -600,7 +813,6 @@
       "menu_url": "https://www.zomato.com/ncr/manhattan-brewery-bar-exchange-golf-course-road-gurgaon/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
       "average_cost_for_two": 2000,
       "switch_to_order_menu": 0,
-      "offers": [],
       "has_table_booking": 0,
       "location": {
         "latitude": "28.4602710000",
@@ -614,51 +826,101 @@
         "locality": "Global Foyer Mall, Golf Course Road"
       },
       "featured_image": "https://b.zmtcdn.com/data/pictures/0/303960/3a3246697e182b37a8a51922a89d4192_featured_v2.jpg",
-      "zomato_events": [
-        {
-          "event": {
-            "display_date": "22 April - 23 April",
-            "end_time": "01:00:00",
-            "date_added": "2017-04-07 15:51:43",
-            "start_date": "2017-04-22",
-            "photos": [
-              {
-                "photo": {
-                  "photo_id": 186812,
-                  "order": 0,
-                  "type": "NORMAL",
-                  "url": "https://b.zmtcdn.com/data/zomato_events/photos/2c2/b78eeb95471c716ba05b22e3173bb2c2_1491560503.jpg",
-                  "md5sum": "b78eeb95471c716ba05b22e3173bb2c2",
-                  "uuid": 1491560508984800,
-                  "thumb_url": "https://b.zmtcdn.com/data/zomato_events/photos/2c2/b78eeb95471c716ba05b22e3173bb2c2_1491560503.jpg?fit=around%7C100%3A100&crop=100%3A100%3B%2A%2C%2A"
-                }
-              }
-            ],
-            "share_url": "http://www.zoma.to/r/303960",
-            "description": "Raftaar fans, do you hear him already? Come be a part of the spectacular groovy night at Manhattan Reloaded on 22nd April, 8 pm onwards. Dance on Raftaar's best hits and some crazy Bolly mixes, with Raftaar and DJ Rony in the house!\r\nTickets at - https://www.nearbuy.com/preview/40161",
-            "title": "Bollywood Night With Raftaar",
-            "display_time": "08:00 pm - 01:00 am",
-            "book_link": "",
-            "restaurants": [],
-            "disclaimer": "Restaurants are solely responsible for the service; availability and quality of the events including all or any cancellations/ modifications/ complaints.",
-            "friendly_start_date": "22 April",
-            "is_end_time_set": 1,
-            "event_id": 118767,
-            "end_date": "2017-04-23",
-            "event_category": 0,
-            "friendly_end_date": "23 April",
-            "is_active": 1,
-            "start_time": "20:00:00",
-            "is_valid": 1,
-            "event_category_name": ""
-          }
-        }
-      ],
       "currency": "Rs.",
       "id": "303960",
       "thumb": "https://b.zmtcdn.com/data/pictures/0/303960/3a3246697e182b37a8a51922a89d4192_featured_v2.jpg",
-      "establishment_types": [],
-      "events_url": "https://www.zomato.com/ncr/manhattan-brewery-bar-exchange-golf-course-road-gurgaon/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ]
     }
   },
   {
@@ -685,7 +947,6 @@
       "average_cost_for_two": 2000,
       "book_url": "https://www.zomato.com/ncr/the-wine-company-dlf-cyber-city-gurgaon/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "Italian, European",
       "location": {
         "latitude": "28.4962285000",
@@ -702,8 +963,98 @@
       "currency": "Rs.",
       "id": "306134",
       "thumb": "https://b.zmtcdn.com/data/pictures/4/306134/a3808bac6743110762e4cd2b1c60db94_featured_v2.jpg",
-      "establishment_types": [],
-      "events_url": "https://www.zomato.com/ncr/the-wine-company-dlf-cyber-city-gurgaon/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ]
     }
   },
   {
@@ -729,7 +1080,6 @@
       "menu_url": "https://www.zomato.com/ncr/farzi-cafe-connaught-place-new-delhi/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
       "average_cost_for_two": 2200,
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "Modern Indian",
       "location": {
         "latitude": "28.6323984000",
@@ -746,8 +1096,98 @@
       "currency": "Rs.",
       "id": "18233593",
       "thumb": "https://b.zmtcdn.com/data/pictures/3/18233593/b547de994b81df6b39ac8ffd76136bfb_featured_v2.jpg",
-      "establishment_types": [],
-      "events_url": "https://www.zomato.com/ncr/farzi-cafe-connaught-place-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ]
     }
   },
   {
@@ -774,7 +1214,6 @@
       "average_cost_for_two": 1800,
       "book_url": "https://www.zomato.com/ncr/indian-grill-room-golf-course-road-gurgaon/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "North Indian, Mughlai",
       "location": {
         "latitude": "28.4334574000",
@@ -791,8 +1230,98 @@
       "currency": "Rs.",
       "id": "7528",
       "thumb": "https://b.zmtcdn.com/data/pictures/8/7528/a56e677f209eefb0537b7672883eac57_featured_v2.jpg",
-      "establishment_types": [],
-      "events_url": "https://www.zomato.com/ncr/indian-grill-room-golf-course-road-gurgaon/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ]
     }
   },
   {
@@ -818,7 +1347,6 @@
       "menu_url": "https://www.zomato.com/ncr/cafeteria-co-vijay-nagar-new-delhi/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
       "average_cost_for_two": 900,
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "Continental, Mexican",
       "location": {
         "latitude": "28.6944707000",
@@ -835,7 +1363,98 @@
       "currency": "Rs.",
       "id": "18273624",
       "thumb": "https://b.zmtcdn.com/data/pictures/4/18273624/cf37a2abfb28cdffe5d96b096d841374_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/ncr/cafeteria-co-vijay-nagar-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -862,7 +1481,6 @@
       "menu_url": "https://www.zomato.com/ncr/farzi-cafe-dlf-cyber-city-gurgaon/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
       "average_cost_for_two": 2200,
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "Modern Indian",
       "location": {
         "latitude": "28.4952079000",
@@ -879,7 +1497,98 @@
       "currency": "Rs.",
       "id": "308022",
       "thumb": "https://b.zmtcdn.com/data/pictures/2/308022/7f5971f1a6c617651d871ff02306ed53_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/ncr/farzi-cafe-dlf-cyber-city-gurgaon/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -907,7 +1616,6 @@
       "average_cost_for_two": 1500,
       "book_url": "https://www.zomato.com/ncr/molecule-air-bar-sector-29-gurgaon/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "Continental, North Indian, Italian, Chinese",
       "location": {
         "latitude": "28.4679344000",
@@ -924,7 +1632,98 @@
       "currency": "Rs.",
       "id": "18157413",
       "thumb": "https://b.zmtcdn.com/data/pictures/3/18157413/2c52bcf5b4e2e276130fed24b07416ab_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/ncr/molecule-air-bar-sector-29-gurgaon/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -952,7 +1751,6 @@
       "average_cost_for_two": 1900,
       "book_url": "https://www.zomato.com/ncr/hotmess-connaught-place-new-delhi/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "has_table_booking": 1,
       "location": {
         "latitude": "28.6326547000",
@@ -1009,7 +1807,98 @@
       "currency": "Rs.",
       "id": "18279449",
       "thumb": "https://b.zmtcdn.com/data/pictures/9/18279449/ba64af5f180920b9bed89693a18cdfc5_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/ncr/hotmess-connaught-place-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -1036,7 +1925,6 @@
       "menu_url": "https://www.zomato.com/ncr/my-bar-headquarters-connaught-place-new-delhi/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
       "average_cost_for_two": 1000,
       "switch_to_order_menu": 0,
-      "offers": [],
       "has_table_booking": 0,
       "location": {
         "latitude": "28.6307210000",
@@ -1093,7 +1981,98 @@
       "currency": "Rs.",
       "id": "311057",
       "thumb": "https://b.zmtcdn.com/data/pictures/7/311057/6d34c0e230aced20c74a2100e5b75b96_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/ncr/my-bar-headquarters-connaught-place-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -1121,7 +2100,6 @@
       "average_cost_for_two": 1200,
       "book_url": "https://www.zomato.com/ncr/flypmtv-connaught-place-new-delhi/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "North Indian, Mexican, Italian, Continental",
       "location": {
         "latitude": "28.6303331283",
@@ -1138,7 +2116,98 @@
       "currency": "Rs.",
       "id": "18235515",
       "thumb": "https://b.zmtcdn.com/data/pictures/5/18235515/386e363cee63064288d06ed68148882f_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/ncr/flypmtv-connaught-place-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -1166,7 +2235,6 @@
       "average_cost_for_two": 1600,
       "book_url": "https://www.zomato.com/ncr/tamasha-connaught-place-new-delhi/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "Finger Food, North Indian, Continental, Italian",
       "location": {
         "latitude": "28.6296060000",
@@ -1183,7 +2251,98 @@
       "currency": "Rs.",
       "id": "18238278",
       "thumb": "https://b.zmtcdn.com/data/pictures/8/18238278/5c08b8b6281efd00dcec3894dba551c5_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/ncr/tamasha-connaught-place-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -1210,7 +2369,6 @@
       "menu_url": "https://www.zomato.com/ncr/the-barbeque-company-jail-road-new-delhi/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
       "average_cost_for_two": 1200,
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "North Indian, Chinese, Continental",
       "location": {
         "latitude": "28.6255344000",
@@ -1227,7 +2385,98 @@
       "currency": "Rs.",
       "id": "17977777",
       "thumb": "https://b.zmtcdn.com/data/pictures/7/17977777/51ddf7b23bd5efd012e351a3de37456f_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/ncr/the-barbeque-company-jail-road-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -1254,7 +2503,6 @@
       "menu_url": "https://www.zomato.com/ncr/saravana-bhavan-connaught-place-new-delhi/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
       "average_cost_for_two": 500,
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "South Indian",
       "location": {
         "latitude": "28.6323578000",
@@ -1271,7 +2519,98 @@
       "currency": "Rs.",
       "id": "900",
       "thumb": "https://b.zmtcdn.com/data/pictures/chains/9/899/f3c3dd1053778f5c83ce1d704b28904a_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/ncr/saravana-bhavan-connaught-place-new-delhi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -1299,7 +2638,6 @@
       "average_cost_for_two": 1600,
       "book_url": "https://www.zomato.com/OdeonSocial/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "has_table_booking": 1,
       "location": {
         "latitude": "28.6342487678",
@@ -1367,7 +2705,98 @@
       "currency": "Rs.",
       "id": "18246991",
       "thumb": "https://b.zmtcdn.com/data/pictures/1/18246991/34f289fd1eb24993ce308a3d47da94ea_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/OdeonSocial/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -1394,7 +2823,6 @@
       "menu_url": "https://www.zomato.com/kolkata/spice-kraft-ballygunge/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
       "average_cost_for_two": 1200,
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "Continental, Middle Eastern, Asian",
       "location": {
         "latitude": "22.5264613000",
@@ -1411,7 +2839,98 @@
       "currency": "Rs.",
       "id": "18017612",
       "thumb": "https://b.zmtcdn.com/data/pictures/2/18017612/913fd9a8d220821947d29c87320fcfc6_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/spice-kraft-ballygunge/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -1438,7 +2957,6 @@
       "menu_url": "https://www.zomato.com/kolkata/hoppipola-kasba/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
       "average_cost_for_two": 1200,
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "Italian, Mexican, American, Mediterranean",
       "location": {
         "latitude": "22.5145853388",
@@ -1455,7 +2973,98 @@
       "currency": "Rs.",
       "id": "18249144",
       "thumb": "https://b.zmtcdn.com/data/pictures/chains/4/18249144/deb712bd876051eee54379bf5bb2c7bb_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/hoppipola-kasba/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -1482,7 +3091,6 @@
       "menu_url": "https://www.zomato.com/kolkata/barbeque-nation-park-street-area/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
       "average_cost_for_two": 1600,
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "North Indian, Chinese",
       "location": {
         "latitude": "22.5510837417",
@@ -1499,7 +3107,98 @@
       "currency": "Rs.",
       "id": "25570",
       "thumb": "https://b.zmtcdn.com/data/pictures/chains/2/20842/b53d903894e2fe2e49ca0e8671e40546_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/barbeque-nation-park-street-area/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -1526,7 +3225,6 @@
       "menu_url": "https://www.zomato.com/kolkata/peter-cat-park-street-area/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
       "average_cost_for_two": 1000,
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "Continental, North Indian",
       "location": {
         "latitude": "22.5526719000",
@@ -1543,7 +3241,98 @@
       "currency": "Rs.",
       "id": "20404",
       "thumb": "https://b.zmtcdn.com/data/pictures/4/20404/c46422afc522370cdce81a412a9cdbe5_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/peter-cat-park-street-area/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -1570,7 +3359,6 @@
       "menu_url": "https://www.zomato.com/kolkata/barbeque-nation-sector-5-salt-lake/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
       "average_cost_for_two": 1600,
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "North Indian, Chinese",
       "location": {
         "latitude": "22.5693584266",
@@ -1587,7 +3375,98 @@
       "currency": "Rs.",
       "id": "20842",
       "thumb": "https://b.zmtcdn.com/data/pictures/chains/2/20842/b53d903894e2fe2e49ca0e8671e40546_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/barbeque-nation-sector-5-salt-lake/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -1615,7 +3494,6 @@
       "average_cost_for_two": 1000,
       "book_url": "https://www.zomato.com/kolkata/whats-up-southern-avenue/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "has_table_booking": 1,
       "location": {
         "latitude": "22.5141185869",
@@ -1759,7 +3637,98 @@
       "currency": "Rs.",
       "id": "18017615",
       "thumb": "https://b.zmtcdn.com/data/pictures/5/18017615/2161c22b7f6d739f29dad73b82877d32_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/whats-up-southern-avenue/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -1787,7 +3756,6 @@
       "average_cost_for_two": 1000,
       "book_url": "https://www.zomato.com/kolkata/6-ballygunge-place-ballygunge/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "Bengali",
       "location": {
         "latitude": "22.5278931461",
@@ -1804,7 +3772,98 @@
       "currency": "Rs.",
       "id": "20002",
       "thumb": "https://b.zmtcdn.com/data/pictures/2/20002/19ea66865832aefc72c6fc1f676c4195_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/6-ballygunge-place-ballygunge/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -1832,7 +3891,6 @@
       "average_cost_for_two": 1800,
       "book_url": "https://www.zomato.com/kolkata/tgi-fridays-elgin/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "Tex-Mex, American",
       "location": {
         "latitude": "22.5379599453",
@@ -1849,7 +3907,98 @@
       "currency": "Rs.",
       "id": "25587",
       "thumb": "https://b.zmtcdn.com/data/pictures/7/25587/ddb7d91e5e6f9ae5ba1bf336f5af5ed6_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/tgi-fridays-elgin/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -1876,7 +4025,6 @@
       "menu_url": "https://www.zomato.com/kolkata/the-irish-house-ballygunge/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
       "average_cost_for_two": 1900,
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "European, American",
       "location": {
         "latitude": "22.5391289434",
@@ -1893,7 +4041,98 @@
       "currency": "Rs.",
       "id": "24286",
       "thumb": "https://b.zmtcdn.com/data/pictures/chains/6/24286/7a4b35bc02e6a20512ba7ceea15a39bf_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/the-irish-house-ballygunge/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -1920,7 +4159,6 @@
       "menu_url": "https://www.zomato.com/kolkata/asia-kitchen-by-mainland-china-kasba/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
       "average_cost_for_two": 1400,
       "switch_to_order_menu": 0,
-      "offers": [],
       "has_table_booking": 0,
       "location": {
         "latitude": "22.5146875471",
@@ -1977,7 +4215,98 @@
       "currency": "Rs.",
       "id": "18217475",
       "thumb": "https://b.zmtcdn.com/data/pictures/5/18217475/c90df6edbb3ae7e168a7c0987ef2fffb_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/asia-kitchen-by-mainland-china-kasba/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -2005,7 +4334,6 @@
       "average_cost_for_two": 800,
       "book_url": "https://www.zomato.com/kolkata/india-restaurant-kidderpore/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "Biryani, North Indian, Chinese, Mughlai",
       "location": {
         "latitude": "22.5389989000",
@@ -2022,7 +4350,98 @@
       "currency": "Rs.",
       "id": "20747",
       "thumb": "https://b.zmtcdn.com/data/pictures/7/20747/72d888f04564fe8c1c846e091fd5a4da_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/india-restaurant-kidderpore/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -2049,7 +4468,6 @@
       "menu_url": "https://www.zomato.com/kolkata/nawwarah-ballygunge/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
       "average_cost_for_two": 1000,
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "Chinese, Cafe, North Indian, Desserts",
       "location": {
         "latitude": "22.5387310000",
@@ -2066,7 +4484,98 @@
       "currency": "Rs.",
       "id": "18377112",
       "thumb": "https://b.zmtcdn.com/data/pictures/2/18377112/9461f6ce9c2ac672d3959dcf6d952a60_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/nawwarah-ballygunge/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -2093,7 +4602,6 @@
       "menu_url": "https://www.zomato.com/kolkata/santas-fantasea-golpark/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
       "average_cost_for_two": 800,
       "switch_to_order_menu": 0,
-      "offers": [],
       "has_table_booking": 0,
       "location": {
         "latitude": "22.5150818224",
@@ -2150,7 +4658,98 @@
       "currency": "Rs.",
       "id": "24530",
       "thumb": "https://b.zmtcdn.com/data/pictures/chains/0/24530/de94f2de4e7a40b5359146bbef22d8ad_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/santas-fantasea-golpark/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -2178,7 +4777,6 @@
       "average_cost_for_two": 1200,
       "book_url": "https://www.zomato.com/kolkata/mumbai-local-ballygunge/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "North Indian, Chinese, Street Food",
       "location": {
         "latitude": "22.5336623000",
@@ -2195,7 +4793,98 @@
       "currency": "Rs.",
       "id": "18343731",
       "thumb": "https://b.zmtcdn.com/data/pictures/1/18343731/9c5e5d6b14fae74ed56421d289be1ea2_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/mumbai-local-ballygunge/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -2223,7 +4912,6 @@
       "average_cost_for_two": 1600,
       "book_url": "https://www.zomato.com/kolkata/sigree-global-grill-science-city-area/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "North Indian",
       "location": {
         "latitude": "22.5490998000",
@@ -2240,7 +4928,98 @@
       "currency": "Rs.",
       "id": "24452",
       "thumb": "https://b.zmtcdn.com/data/pictures/chains/2/24452/ad3800ed2af963c6b173b0edb7b2eccd_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/sigree-global-grill-science-city-area/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -2267,7 +5046,6 @@
       "menu_url": "https://www.zomato.com/kolkata/barbq-park-street-area/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
       "average_cost_for_two": 900,
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "Chinese, North Indian",
       "location": {
         "latitude": "22.5529963761",
@@ -2284,7 +5062,98 @@
       "currency": "Rs.",
       "id": "20870",
       "thumb": "https://b.zmtcdn.com/data/pictures/chains/0/20870/dc26709dc20fa2923cb371c872ffdc86_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/barbq-park-street-area/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -2311,7 +5180,6 @@
       "menu_url": "https://www.zomato.com/kolkata/mocambo-park-street-area/menu?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1&openSwipeBox=menu&showMinimal=1#tabtop",
       "average_cost_for_two": 1050,
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "Continental, Italian, North Indian",
       "location": {
         "latitude": "22.5532273000",
@@ -2328,7 +5196,98 @@
       "currency": "Rs.",
       "id": "20350",
       "thumb": "https://b.zmtcdn.com/data/pictures/0/20350/175a59103265680af449838fbf2d7ef5_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/mocambo-park-street-area/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -2356,7 +5315,6 @@
       "average_cost_for_two": 1400,
       "book_url": "https://www.zomato.com/kolkata/gabbars-bar-kitchen-camac-street-area/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "North Indian, Chinese, Mexican, Italian",
       "location": {
         "latitude": "22.5471855000",
@@ -2373,7 +5331,98 @@
       "currency": "Rs.",
       "id": "25664",
       "thumb": "https://b.zmtcdn.com/data/pictures/4/25664/14609c2bcfcfcfab477129894cbb7dd9_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/gabbars-bar-kitchen-camac-street-area/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -2401,7 +5450,6 @@
       "average_cost_for_two": 1500,
       "book_url": "https://www.zomato.com/kolkata/ocean-grill-1-sector-5-salt-lake/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "Continental, Seafood, North Indian, Asian",
       "location": {
         "latitude": "22.5693667858",
@@ -2418,7 +5466,98 @@
       "currency": "Rs.",
       "id": "18259462",
       "thumb": "https://b.zmtcdn.com/data/pictures/2/18259462/d1d7942ef7138aa9f4a199a85510326a_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/ocean-grill-1-sector-5-salt-lake/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   },
@@ -2446,7 +5585,6 @@
       "average_cost_for_two": 1500,
       "book_url": "https://www.zomato.com/kolkata/flame-grill-kankurgachi/book?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1",
       "switch_to_order_menu": 0,
-      "offers": [],
       "cuisines": "North Indian, Continental",
       "location": {
         "latitude": "22.5778208000",
@@ -2463,7 +5601,98 @@
       "currency": "Rs.",
       "id": "21220",
       "thumb": "https://b.zmtcdn.com/data/pictures/0/21220/ee26eb13d056433c55456116bd2a9c35_featured_v2.jpg",
-      "establishment_types": [],
+      "offers": {
+        "@type": "Offer",
+        "availabilityStarts": "T17:00",
+        "availabilityEnds": "T23:00"
+      },
+      "hasMenuSection": [
+        {
+          "@type": "MenuSection",
+          "name": "Appetizers",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Fried Eggplant",
+              "description": "Served with Italian red gravy.",
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Fried Calamari",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "573 calories",
+                "fatContent": "25 grams",
+                "carbohydrateContent": "26 grams",
+                "proteinContent": "61 grams"
+              },
+              "offers": {
+                "@type": "Offer",
+                "price": "7.95"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Soups",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Lobster Bisque",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Creole Seafood Gumbo",
+              "description": "Served with Italian red gravy or honey mustard.",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "offers": {
+                "@type": "Offer",
+                "price": "6.75"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "MenuSection",
+          "name": "Pastas",
+          "description": "Entrées served with dinner salad or a cup of soup of the day.",
+          "hasMenuItem": [
+            {
+              "@type": "MenuItem",
+              "name": "Veal Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Tender cuts of paneed veal crowned with golden fried eggplant, Italian red gravy, mozzarella, and parmesan; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "17.95"
+              }
+            },
+            {
+              "@type": "MenuItem",
+              "name": "Eggplant Parmigiana",
+              "image": "https://b.zmtcdn.com/data/pictures/2/308322/cf86dbd8b8ca4d40682c7713f112cc07_featured_v2.jpg",
+              "description": "Pan fried eggplant layered and topped with Italian red gravy, mozzarella, and parmesan baked until bubbly; served with spaghetti.",
+              "offers": {
+                "@type": "Offer",
+                "price": "14.95"
+              }
+            }
+          ]
+        }
+      ],
       "events_url": "https://www.zomato.com/kolkata/flame-grill-kankurgachi/events#tabtop?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1"
     }
   }

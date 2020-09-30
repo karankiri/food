@@ -35,9 +35,9 @@
       display: flex;
       align-items: center;
       margin-top: 1rem;
-      background-color: rgba($color: #ffffff, $alpha: 0.4);
 
       .star-icon {
+        background-color: rgba($color: #ffffff, $alpha: 0.4);
         background-image: url("../../assets/icons/218-512.png");
         height: 2rem;
         width: 2rem;
@@ -46,7 +46,8 @@
       }
 
       .rating-text {
-        font-size: 0.75rem;
+        background-color: rgba($color: #ffffff, $alpha: 0.4);
+        font-size: 1rem;
       }
     }
   }
