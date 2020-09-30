@@ -3,7 +3,10 @@ import { useParams } from "react-router-dom";
 import { FoodContext } from "../../utils/context/foodContext";
 import "./styles.scss";
 import RestaurantBanner from "../../component/restaurantBanner/index";
-import { CART_ADD_PRODUCT } from "../../utils/actions/index";
+import {
+  CART_ADD_PRODUCT,
+  CART_REMOVE_PRODUCT,
+} from "../../utils/actions/index";
 
 export default function Product() {
   const {
@@ -32,9 +35,28 @@ export default function Product() {
     return { restaurantData, productData: {} };
   }, [restaurantID, restaurants, menuItemID]);
 
+  const cartQuantity = useMemo(() => {
+    if (user.cart && menuItemID) {
+      return user.cart.products.filter((item) => item.id == menuItemID)[0]
+        .quantity;
+    }
+    return 0;
+  }, [user, menuItemID]);
+
   const onAddClick = () => {
     dispatch({
       type: CART_ADD_PRODUCT,
+      payload: {
+        product: {
+          id: menuItemID,
+        },
+      },
+    });
+  };
+
+  const onRemoveClick = () => {
+    dispatch({
+      type: CART_REMOVE_PRODUCT,
       payload: {
         product: {
           id: menuItemID,
@@ -53,8 +75,14 @@ export default function Product() {
       />
       <div className="addToCart">
         <div className="counter-container">
-          <button className="decrease-btn">-</button>
-          <span>{1}</span>
+          <button
+            className="decrease-btn"
+            onClick={onRemoveClick}
+            disabled={cartQuantity < 1}
+          >
+            -
+          </button>
+          <span>{cartQuantity}</span>
           <button className="increase-btn" onClick={onAddClick}>
             +
           </button>
