@@ -12,15 +12,17 @@ export default function Product() {
   console.log("Home -> user", user);
   const params = useParams();
   let { restaurantID, menuItemID } = params;
+  console.log("Product -> menuItemID", menuItemID);
   const productData = useMemo(() => {
     const restaurantData =
       restaurants.filter((item) => item.restaurant.id === restaurantID)[0]
         .restaurant || {};
-    if (Object.keys(restaurantData) > 0) {
+    console.log("productData -> restaurantData", restaurantData);
+    if (Object.keys(restaurantData).length > 0) {
       let menuItem = {};
       restaurantData.hasMenuSection.map((menuSection) => {
         menuSection.hasMenuItem.map((item) => {
-          if (item.id.toString() === menuItemID) {
+          if (item.id.toString() === menuItemID.toString()) {
             menuItem = item;
           }
         });
@@ -36,9 +38,8 @@ export default function Product() {
       <RestaurantBanner
         name={productData.name}
         id={productData.id}
-        rating={productData.user_rating.aggregate_rating}
-        image={productData.featured_image}
-        cuisines={productData.cuisines}
+        rating={productData.offers.rating}
+        image={productData.image}
       />
       <div className="main"></div>
     </div>
