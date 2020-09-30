@@ -2,6 +2,7 @@ import React, { useContext, useMemo } from "react";
 import { useParams } from "react-router-dom";
 import { FoodContext } from "../../utils/context/foodContext";
 import "./styles.scss";
+import RestaurantBanner from "../../component/restaurantBanner/index";
 
 export default function Restaurant() {
   const {
@@ -20,7 +21,13 @@ export default function Restaurant() {
 
   return (
     <div className="home-page">
-      <div className="banner-container"></div>
+      <RestaurantBanner
+        name={restaurantData.name}
+        id={restaurantData.id}
+        rating={restaurantData.user_rating.aggregate_rating}
+        image={restaurantData.featured_image}
+        cuisines={restaurantData.cuisines}
+      />
       <div className="main"></div>
     </div>
   );
