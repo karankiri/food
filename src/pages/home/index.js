@@ -11,7 +11,7 @@ export default function Home() {
 
   return (
     <div className="home-page">
-      <div className="banner-container"></div>
+      <div className="home-banner-container"></div>
       <div className="main">
         {restaurants.map(({ restaurant }) => (
           <div className="restaurant-card-container">
