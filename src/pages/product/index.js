@@ -78,20 +78,19 @@ export default function Product() {
       <div className="addToCart">
         <div className="counter-container">
           <button
-            className="decrease-btn"
+            className="decrease-btn counter-btn"
             onClick={onRemoveClick}
             disabled={cartQuantity < 1}
           >
             -
           </button>
           <span>{cartQuantity}</span>
-          <button className="increase-btn" onClick={onAddClick}>
+          <button className="increase-btn counter-btn" onClick={onAddClick}>
             +
           </button>
         </div>
-        <button className="add-to-cart">
-          Add for {productData.offers.price}
-          {restaurantData.currency}
+        <button className="add-to-cart" onClick={onAddClick}>
+          Add for {productData.offers.price} {restaurantData.currency}
         </button>
       </div>
       <div className="main">

@@ -4,14 +4,35 @@
     display: flex;
     align-items: center;
     justify-content: center;
+
+    .counter-btn {
+      background-color: orangered;
+      color: white;
+      border: none;
+      padding: 0.5rem 1rem;
+      font-weight: 800;
+      border-radius: 0.5rem;
+    }
+    span {
+      margin: 0 1rem;
+    }
+
+    .add-to-cart {
+      background-color: orangered;
+      color: white;
+      border: none;
+      padding: 0.5rem 2rem;
+      margin-left: 1rem;
+      border-radius: 0.5rem;
+    }
   }
 
   .main {
     max-width: 500px;
     margin: 3rem auto 0;
 
-    .menu-item-container {
-      margin-bottom: 1rem;
+    .description {
+      text-align: center;
     }
   }
 }
